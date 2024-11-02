@@ -39,24 +39,24 @@ https://xsoto-developer.github.io/react-gallery-spa/
 
 ## Cómo Ejecutar el Proyecto
 
-1. ###Clonar el repositorio:
-```bash
-git clone https://github.com/xsoto-developer/react-organizador-tareas.git
+### 1. Clonar el repositorio:
 
-2. ### Instalar dependencias:
+`git clone https://github.com/xsoto-developer/react-organizador-tareas.git`
 
-npm install
+### 2. Instalar dependencias:
 
-3. ### Iniciar el servidor de desarrollo:   
+`yarn install`
 
-npm start
+### 3. Iniciar el servidor de desarrollo:   
+
+`yarn dev`
 
 ### Ejecuta la aplicación en el modo de desarrollo.\
 Abre [http://localhost:3000](http://localhost:3000) para verla en tu navegador.
 
 La página se volverá a cargar cuando realices cambios.\
 
-yarn build
+`yarn build`
 
 Compila la aplicación para producción en la carpeta `dist`.\
 
