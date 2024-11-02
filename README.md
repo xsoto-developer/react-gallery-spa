@@ -39,30 +39,26 @@ https://xsoto-developer.github.io/react-gallery-spa/
 
 ## Cómo Ejecutar el Proyecto
 
-1. Clonar el repositorio:
+1. ###Clonar el repositorio:
 ```bash
 git clone https://github.com/xsoto-developer/react-organizador-tareas.git
 
-2. Instalar dependencias:
+2. ### Instalar dependencias:
 
-```bash
 npm install
 
-3. Iniciar el servidor de desarrollo:   
-```bash
+3. ### Iniciar el servidor de desarrollo:   
+
 npm start
 
-Ejecuta la aplicación en el modo de desarrollo.\
+### Ejecuta la aplicación en el modo de desarrollo.\
 Abre [http://localhost:3000](http://localhost:3000) para verla en tu navegador.
 
 La página se volverá a cargar cuando realices cambios.\
-```bash
-npm run build
 
-Compila la aplicación para producción en la carpeta `build`.\
-Integra React correctamente en el modo de producción y optimiza la compilación para obtener el mejor rendimiento.
+yarn build
 
-La compilación se minimiza y los nombres de archivo incluyen los hashes.\
-¡La aplicación está lista para implementarse!
+Compila la aplicación para producción en la carpeta `dist`.\
+
 
 
