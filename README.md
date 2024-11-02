@@ -1,4 +1,4 @@
-# Organizador de Tareas React: Un enfoque moderno y escalable
+# React Gallery SPA: Listado y Búsqueda de Imágenes
 
 ## Descripción
 Esta aplicación React JS es una Single Page Application (SPA) diseñada para:
