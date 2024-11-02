@@ -7,6 +7,9 @@ Esta aplicación React JS es una Single Page Application (SPA) diseñada para:
 - Ver detalles: Cada imagen cuenta con una vista detallada que muestra información adicional y una versión de mayor tamaño.
 - Búsqueda avanzada: Un potente buscador que filtra las imágenes basadas en su descripción, ofreciendo resultados precisos y relevantes.
 
+¡Explora la aplicación en acción!
+https://xsoto-developer.github.io/react-gallery-spa/
+
 ## Características Técnicas
 
 - SPA con múltiples rutas: Navegación fluida entre diferentes secciones de la aplicación sin recargas de página completas.
