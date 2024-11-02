@@ -1,0 +1,85 @@
+.hero-page {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    padding: 2rem;
+    background-color: #f7f7f7;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    margin-top: 1.5rem;
+}
+
+.hero-page-image {
+    flex: 0 0 300px; /* Tamaño fijo para la imagen */
+}
+
+.hero-page-image img {
+    width: 100%;
+    height: auto;
+    max-height: 400px; /* Limita la altura de la imagen */
+    object-fit: cover;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.hero-page-image img:hover {
+    transform: scale(10.05);
+}
+
+.hero-page-details {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.hero-page-title {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #333333;
+    margin-bottom: 1rem;
+}
+
+.hero-page-list {
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.list-group-item {
+    font-size: 1rem;
+    color: #555555;
+    background-color: transparent;
+    border: none;
+    padding-left: 0;
+}
+
+.hero-page-details h5 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #666666;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.hero-page-details p {
+    font-size: 1rem;
+    color: #444444;
+    line-height: 1.5;
+}
+
+.btn-outline-primary {
+    align-self: flex-start; /* Ajusta el botón al ancho de su contenido */
+    margin-top: 2rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #4a90e2;
+    border-color: #4a90e2;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.btn-outline-primary:hover {
+    background-color: #4a90e2;
+    color: #ffffff;
+}

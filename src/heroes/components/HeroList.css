@@ -1,0 +1,11 @@
+/* src/styles/HeroList.css */
+
+.row {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Ancho mínimo reducido para 4 columnas */
+    gap: 1.5rem;
+    padding: 2rem;
+    background-color: #eceaea;
+    border-radius: 12px;
+}
+
