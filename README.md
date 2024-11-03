@@ -41,7 +41,7 @@ https://xsoto-developer.github.io/react-gallery-spa/
 
 ### 1. Clonar el repositorio:
 
-`git clone https://github.com/xsoto-developer/react-organizador-tareas.git`
+`git clone https://github.com/xsoto-developer/react-gallery-spa.git`
 
 ### 2. Instalar dependencias:
 
