@@ -10,6 +10,11 @@ Esta aplicación React JS es una Single Page Application (SPA) diseñada para:
 ¡Explora la aplicación en acción!
 https://xsoto-developer.github.io/react-gallery-spa/
 
+## Credenciales de Acceso (para pruebas)
+- **Usuario**: demo_user
+- **Contraseña**: demo_pass
+Usa estas credenciales para acceder a la versión de prueba de la aplicación.
+
 ## Características Técnicas
 
 - SPA con múltiples rutas: Navegación fluida entre diferentes secciones de la aplicación sin recargas de página completas.
